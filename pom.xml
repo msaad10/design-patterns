@@ -18,6 +18,9 @@
         <module>Decorator</module>
         <module>Facade</module>
         <module>Proxy</module>
+        <module>Command</module>
+        <module>Observer</module>
+        <module>Strategy</module>
     </modules>
 
     <properties>
